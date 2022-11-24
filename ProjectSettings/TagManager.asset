@@ -9,6 +9,7 @@ TagManager:
   - Spikes
   - Exit
   - Health
+  - Axe
   layers:
   - Default
   - TransparentFX
